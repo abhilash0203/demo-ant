@@ -1,0 +1,9 @@
+2022/05/28-13:23:07.340 3 Reusing MANIFEST /home/abhilashthampit/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/28-13:23:07.341 3 Recovering log #3
+2022/05/28-13:23:07.343 3 Reusing old log /home/abhilashthampit/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2022/05/28-13:25:21.299 5 Level-0 table #5: started
+2022/05/28-13:25:21.303 5 Level-0 table #5: 28943 bytes OK
+2022/05/28-13:25:21.306 5 Delete type=0 #3
+2022/05/28-15:54:35.601 19 Level-0 table #7: started
+2022/05/28-15:54:35.604 19 Level-0 table #7: 29574 bytes OK
+2022/05/28-15:54:35.607 19 Delete type=0 #4

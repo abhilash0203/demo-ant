@@ -1,0 +1,61 @@
+{
+   "checksum": "ecd8cead1a6857fe4c8b56dc1144d779",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13297107761155793",
+            "guid": "25d332e6-56dd-4b48-a98a-ef9d6207e099",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13297107761159618",
+            "guid": "085f384c-beaa-4b48-b229-eb7c3e730814",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13297107761160108",
+            "guid": "b5bf5b97-cfb6-4f74-b051-893975387fc4",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13298218031387227",
+            "guid": "d6169e8c-1aee-4832-a6e6-63d79234e7c6",
+            "id": "9",
+            "name": "Personal access tokens",
+            "type": "url",
+            "url": "https://github.com/settings/tokens"
+         } ],
+         "date_added": "13297107752949398",
+         "date_modified": "13298218031387227",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13297107752949400",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13297107752949401",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
